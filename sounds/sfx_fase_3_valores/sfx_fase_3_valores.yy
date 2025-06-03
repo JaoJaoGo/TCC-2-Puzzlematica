@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_fase_3_valores",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.6880045,
+  "name":"sfx_fase_3_valores",
+  "parent":{
+    "name":"Dublagem",
+    "path":"folders/Sons/Fase 03/Dublagem.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_fase_3_valores.mp3",
+  "type":0,
+  "volume":1.0,
+}

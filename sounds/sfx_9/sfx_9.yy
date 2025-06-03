@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_9",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.0559864,
+  "name":"sfx_9",
+  "parent":{
+    "name":"Contagem",
+    "path":"folders/Sons/Fase 01/Dublagem/Contagem.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_9.mp3",
+  "type":0,
+  "volume":1.0,
+}

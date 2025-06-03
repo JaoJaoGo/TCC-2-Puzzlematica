@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_nota_colocada",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.0559864,
+  "name":"sfx_nota_colocada",
+  "parent":{
+    "name":"Fase 01",
+    "path":"folders/Sons/Fase 01.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_nota_colocada.mp3",
+  "type":0,
+  "volume":1.0,
+}

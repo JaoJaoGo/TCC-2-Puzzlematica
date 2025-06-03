@@ -1,0 +1,1 @@
+global.id_audio_final = audio_play_sound(sfx_final, 1, false);

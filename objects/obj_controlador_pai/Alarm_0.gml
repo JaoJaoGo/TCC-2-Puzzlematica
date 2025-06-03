@@ -1,0 +1,1 @@
+global.id_audio_tutorial_1 = audio_play_sound(sfx_fase_1_tutorial, 1, false);

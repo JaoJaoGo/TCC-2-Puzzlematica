@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_parabenizacao_5",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.9359864,
+  "name":"sfx_parabenizacao_5",
+  "parent":{
+    "name":"Parabenizacao",
+    "path":"folders/Sons/Parabenizacao.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_parabenizacao_5.mp3",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_valor_picole",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.5120181,
+  "name":"sfx_valor_picole",
+  "parent":{
+    "name":"Valores Itens",
+    "path":"folders/Sons/Fase 03/Dublagem/Valores Itens.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_valor_picole.mp3",
+  "type":0,
+  "volume":1.0,
+}

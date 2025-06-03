@@ -1,0 +1,1 @@
+global.id_audio_valores = audio_play_sound(sfx_fase_3_valores, 1, false);

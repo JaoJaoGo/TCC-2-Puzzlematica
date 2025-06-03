@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_fase_2_tutorial",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":4.68,
+  "name":"sfx_fase_2_tutorial",
+  "parent":{
+    "name":"Fase 02",
+    "path":"folders/Sons/Fase 02.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_fase_2_tutorial.mp3",
+  "type":0,
+  "volume":1.0,
+}
