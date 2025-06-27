@@ -1,4 +1,4 @@
-# 🧩 TCC-2: Puzzlematica
+Puzzlematica
 Este é o repositório do projeto Puzzlematica, um jogo educacional desenvolvido como Trabalho de Conclusão de Curso (TCC 2). O objetivo do jogo é auxiliar no aprendizado de contagem, soma e reconhecimento de cédulas para pessoas com Síndrome de Down, através de mecânicas interativas de quebra-cabeça.
 
 ## 🎮 Estrutura do Projeto
