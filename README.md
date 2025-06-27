@@ -18,5 +18,9 @@ Este é o repositório do projeto Puzzlematica, um jogo educacional desenvolvido
 2. Clique em "Open Project".
 3. Selecione o arquivo TCC II - Quebra-Cabeça Real 2.yyp.
 
+## 📄 Acesso à Monografia
+A monografia completa associada a este projeto está disponível no Repositório da PUC Goiás:
+🔗 [https://repositorio.pucgoias.edu.br/jspui/handle/123456789/9358](https://repositorio.pucgoias.edu.br/jspui/handle/123456789/9358)
+
 ## 📜 Licença
 Este projeto é de uso acadêmico e sem fins lucrativos. Para fins comerciais, consulte os autores.
